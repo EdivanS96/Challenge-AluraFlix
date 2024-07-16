@@ -2,24 +2,27 @@
 
 <div align="center">
 
-# **ALURA FLIX**
+# **ALURA FLIX - STAR WARS**
 
-<p style="font-size:20px;">Filmes e Series Star Wars</p>
+<p style="font-size:20px;">Todas as Trilogias de Star Wars</p>
 
 </div>
 
-
-![Alura_SW](https://github.com/user-attachments/assets/0ba9fa79-aba1-4d7c-acc3-ee78b11d3a49)
+![Home Desktop](https://github.com/user-attachments/assets/ec80a825-7646-483f-8efc-5a21f2317707)
 
 Ferramentas utilizadas:
 
-🔹 HTML
+🔹 React
 
-🔹 CSS
+🔹 React Router
 
-🔹 Javascript
+🔹 Redux
 
-🔹 NodeJS
+🔹 Axios
+
+🔹json-server (para desenvolvimento local)
+
+🔹JavaScript
 
 🔹 Github
 
@@ -40,4 +43,4 @@ Fases:
 
 Links:
 
-🔹 Framework no Figma: https://www.figma.com/design/BpLIxTDFojXtGPPAQy3IwO/AluraGeek--Edivan-Silva?node-id=0-1&t=Kdni2r9MH2RAEvx3-1
+🔹 Framework no Figma: https://www.figma.com/design/sPvmtY6LRzg8dWYd0REnpF/Challenge---AluraFlix?node-id=1-106&t=37FM1VAcujJI151H-1
